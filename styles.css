@@ -1,0 +1,23 @@
+p{
+    color: blue;
+    font-size: 20px;
+    font-family: cursive;
+}
+title{
+    font-size: 40px;
+}
+div{
+    color: darkgrey;
+}
+ .uppercase{
+    text-transform:uppercase;
+ }
+ .cursive{
+    text-transform:cursive;
+ }
+ #blog_description{
+ color:#314832;
+}
+.hover:hover{
+    color:red;
+}
